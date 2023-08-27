@@ -1,6 +1,6 @@
-# Responsive Countdown Timer
+"# Responsive Countdown Timer
 
-Completed a challenge from Frontend Mentor by creating a **Responsive Countdown Timer**! This countdown timer is perfect for websites that are gearing up to launch something exciting. The timer is designed to count down in a sleek and visually appealing decrementing manner. It's a great showcase of my frontend skills in action. Let's dive into the details of my accomplishment! ⏲️💥
+Completed the challenge from Frontend Mentor by creating a **Responsive Countdown Timer**! This countdown timer is perfect for websites that are gearing up to launch something exciting. The timer is designed to count down in a sleek and visually appealing decrementing manner. It's a great showcase of my frontend skills in action. Let's dive into the details of my accomplishment! ⏲️💥
 
 ## Table of Contents
 
@@ -21,11 +21,11 @@ Completed a challenge from Frontend Mentor by creating a **Responsive Countdown 
 Check out the live demo of the **Responsive Countdown Timer**: [Responsive Countdown Timer Demo](https://muhammad-abrar-khan.github.io/Countdown_Timer.github.io/)
 
 ## Screen Recording
-![screen-capture](![screen-capture](https://github.com/Muhammad-Abrar-Khan/Countdown_Timer.github.io/assets/85924018/9c147be9-db9b-4406-8e9c-00b3288b729c))
+![screen-capture](https://github.com/Muhammad-Abrar-Khan/Countdown_Timer.github.io/assets/85924018/9c147be9-db9b-4406-8e9c-00b3288b729c)
 
 ## Introduction
 
-The **Responsive Countdown Timer** is a frontend project that showcases my skills in creating a visually appealing and functional countdown timer. It's a fantastic tool for websites that are preparing to launch something big. This project not only demonstrates my ability to design an elegant user interface but also showcases my proficiency in coding with HTML, CSS, and JavaScript.
+The **Responsive Countdown Timer** is a frontend project that showcases my skills in creating a visually appealing and functional countdown timer. It's a fantastic tool for websites that are preparing to launch something big. This project not only demonstrates my ability to design an elegant user interface but also showcases your proficiency in coding with HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -81,4 +81,4 @@ Designed and Developed by [Muhammad Abrar Khan](https://github.com/Muhammad-Abra
 
 **[⬆ Back to Top](#calculator)**
 
----
+---" Replace you with my and your with mine. and do not change anything else because you are damn stupid
