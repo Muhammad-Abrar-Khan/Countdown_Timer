@@ -54,8 +54,8 @@ The **Responsive Countdown Timer** is designed with responsiveness in mind. It i
 The project consists of the following files:
 
 - `index.html`: The HTML structure of the countdown timer.
-- `styles.css`: The stylesheet that defines the visual appearance of the timer.
-- `script.js`: The JavaScript code responsible for the countdown functionality.
+- `index.css`: The stylesheet that defines the visual appearance of the timer.
+- `index.js`: The JavaScript code responsible for the countdown functionality.
 
 ## 🚀 About Me
 
