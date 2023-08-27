@@ -1,4 +1,4 @@
-"# Responsive Countdown Timer
+# Responsive Countdown Timer
 
 Completed the challenge from Frontend Mentor by creating a **Responsive Countdown Timer**! This countdown timer is perfect for websites that are gearing up to launch something exciting. The timer is designed to count down in a sleek and visually appealing decrementing manner. It's a great showcase of my frontend skills in action. Let's dive into the details of my accomplishment! ⏲️💥
 
@@ -81,4 +81,4 @@ Designed and Developed by [Muhammad Abrar Khan](https://github.com/Muhammad-Abra
 
 **[⬆ Back to Top](#calculator)**
 
----" Replace you with my and your with mine. and do not change anything else because you are damn stupid
+---
