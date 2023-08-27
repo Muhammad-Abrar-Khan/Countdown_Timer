@@ -79,6 +79,6 @@ Designed and Developed by [Muhammad Abrar Khan](https://github.com/Muhammad-Abra
 
 ---
 
-**[⬆ Back to Top](#calculator)**
+**[⬆ Back to Top](#Responsive Countdown Timer)**
 
 ---
