@@ -1,0 +1,192 @@
+:root {
+    --main-font: 'Red Hat Text', sans-serif;
+  }
+  
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: var(--main-font);
+    list-style-type: none;
+  }
+
+body {
+    background-image: url('/images/bg-stars.svg'), linear-gradient(to bottom, hsl(258, 89%, 14%), hsl(248, 88%, 10%), hsl(257, 76%, 8%));
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.launch{
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    flex: 1; 
+    font-size: 1.5rem;
+    letter-spacing: 0.1rem;
+    word-spacing: 0.5rem;
+    margin: 3rem 0; 
+}
+
+.timer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    
+}
+.time {
+    font-size: 4.6rem;
+    background: linear-gradient(to bottom, hsl(231, 93%, 32%), hsl(277, 91%, 21%));
+    height: 8rem;
+    width: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    outline: 6px outset #030233;
+    box-shadow: 4px 4px 5px 4px black;
+    color: hsl(332, 98%, 48%);
+    margin-bottom: 1rem;
+
+}
+
+.ff{
+    color: white;
+    text-align: center;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-image: url('/images/pattern-hills.svg');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+    padding: 2rem 0;
+    color: hsl(332, 98%, 48%);
+}
+
+.linked {
+    color: white;
+    text-decoration: none;
+}
+
+.socialicons {
+    display: flex;
+    justify-content: center;
+    gap: 2.5rem; 
+}
+
+.socialicons a:hover .icon path {
+    fill: hsl(332, 98%, 48%);
+}
+
+.socialicons a:not(:hover) .icon path {
+    fill: white;
+}
+.attribution {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+/* ... (media queries) ... */
+
+@media screen and (min-width: 2560px) {
+    .launch {
+        transform: scale(2);
+        margin: 7rem 0 10rem 0;
+    }
+    
+    .timer{
+        transform: scale(1.8);
+    }
+
+    .bottom {
+        padding: 4.8rem 0; 
+        background-size: contain; 
+        gap: 1.2rem; 
+    }
+
+    .socialicons{
+        font-size: 6.4rem;
+        transform: scale(1.7);
+    }
+
+    .attribution {
+        font-size: 2rem; 
+    }
+    
+}
+@media screen and (max-width: 1440px) {
+    .bottom {
+        padding: 2.8rem 0; 
+        gap: 2rem; 
+    }
+}
+
+
+@media screen and (max-width: 1024px) {
+    .launch{
+        transform: scale(0.8);
+    }
+    .timer{
+        transform: scale(0.8);
+    }
+    .bottom {
+        padding: 2.4rem 0; 
+        gap: 0.7rem; 
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .launch{
+        transform: scale(0.7);
+        margin: 2rem 0 0 0;
+    }
+    .timer{
+        transform: scale(0.8);
+    }
+    .bottom {
+        padding: 1rem 0; 
+        gap: 0.4rem; 
+    }
+    .socialicons{
+        font-size: 2.7rem;
+        transform: scale(0.8);
+    }
+    /* .attribution {
+        font-size: 0.7rem; 
+    } */
+}
+
+@media screen and (max-width: 375px) {
+    .launch{
+        transform: scale(0.6);
+        margin: 1.8rem 0 0 0;
+    }
+    .timer{
+        transform: scale(0.7);
+    }
+    .bottom {
+        padding: 0.5rem 0; 
+        gap: 0.3rem; 
+
+    }
+    .socialicons{
+        font-size: 2.6rem;
+    }
+
+}
